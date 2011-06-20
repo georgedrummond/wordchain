@@ -48,6 +48,7 @@ class Store
   end  
 end
 
+# This is the class where our searching takes place
 class WordChain
   def initialize(from, to)
     raise "Found chain: #{from} -> #{to}" if from == to # for all the tricksters
