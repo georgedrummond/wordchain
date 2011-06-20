@@ -1,7 +1,7 @@
-= Wordchain Finder In Ruby
+# Wordchain Finder In Ruby
 
 Find wordchains in ruby e.g. 
-  swim -> saim -> said -> sand -> sind -> sink
+    swim -> saim -> said -> sand -> sind -> sink
 
-== Usage
-  ruby wordchain.rb sink swim
+## Usage
+    ruby wordchain.rb sink swim
